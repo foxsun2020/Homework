@@ -8,14 +8,14 @@ def check_major(c_path, s_path):
     s_sheet = s_excel.sheets()[0]
     c_nrow = c_sheet.nrows  # the number of row - Checklist.xlsx
     s_nrow = s_sheet.nrows  # the number of row - Standard.xlsx
-    for a in range(1, c_nrow):
+    for a in range(1, c_nrow):  # info from Checklist.xlsx
         c_stu_id = c_sheet.row_values(a)[0]
         name = c_sheet.row_values(a)[1]
         c_major = c_sheet.row_values(a)[6]
-        for b in range(1, s_nrow):
+        for b in range(1, s_nrow):  # info from Standard.xlsx
             s_stu_id = s_sheet.row_values(b)[0]
             s_major = s_sheet.row_values(b)[6]
-            if c_stu_id == s_stu_id:
+            if c_stu_id == s_stu_id:  # compare and judge
                 if c_major == s_major:
                     continue
                 else:
