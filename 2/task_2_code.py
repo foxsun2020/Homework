@@ -25,7 +25,7 @@ def check_major(c_path, s_path):
                 if c_major == s_major:
                     continue
                 else:
-                    print('考生编号 %s 的 %s 应为 %s，误选为 %s' % (str(c_stu_id)[0:15], name, s_major, c_major))
+                    print('%s(%s)----%s(×)---->%s(✓)' % (name, str(c_stu_id)[0:15], c_major, s_major))
 
 
 if __name__ == '__main__':
