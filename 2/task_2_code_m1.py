@@ -1,10 +1,11 @@
 """
-Function: Compare students‘ major in CheckList.xlsx and Standard.xlsx with print result.
+Function: Compare students‘ major in CheckList.xlsx and Standard.xlsx with print result(xlrd).
 Author: Sun Yuexin
 Date: 2020.10.21
 """
 
 import xlrd
+import time
 
 
 def check_major(c_path, s_path):
@@ -32,4 +33,7 @@ def check_major(c_path, s_path):
 
 
 if __name__ == '__main__':
-    check_major(r'2\CheckList.xlsx', r'2\Standard.xlsx')
+    time_start = time.time()
+    check_major(r'.\CheckList.xlsx', r'.\Standard.xlsx')
+    time_end = time.time()
+    print('Time cost = %fs' % (time_end - time_start))

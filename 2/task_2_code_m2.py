@@ -1,6 +1,6 @@
 """
 ***Take a long time to run!!!***
-Function: Compare students‘ major in CheckList.xlsx and Standard.xlsx with print result.
+Function: Compare students‘ major in CheckList.xlsx and Standard.xlsx with print result(Class).
 Author: Sun Yuexin
 Date: 2020.10.23
 """
@@ -45,4 +45,4 @@ def check_major(c_path, s_path):
 
 
 if __name__ == '__main__':
-    check_major(r'2\CheckList.xlsx', r'2\Standard.xlsx')
+    check_major(r'.\CheckList.xlsx', r'.\Standard.xlsx')
