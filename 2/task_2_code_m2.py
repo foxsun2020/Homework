@@ -43,6 +43,5 @@ def check_major(c_path, s_path):
     print('%s students checked' % counter)
 
 
-
 if __name__ == '__main__':
     check_major(r'.\CheckList.xlsx', r'.\Standard.xlsx')
