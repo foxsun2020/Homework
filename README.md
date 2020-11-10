@@ -9,5 +9,8 @@ Python homework and practices
 ### 2020/11/9
 3. Convert RGB pictures in folder into grayscale and open them.
 
+### 2020/11/10
+4. Find Mean, Variance, Standard Variance of X(discrete random variables)
+
 
   
