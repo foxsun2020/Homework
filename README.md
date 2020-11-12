@@ -12,5 +12,8 @@ Python homework and practices
 ### 2020/11/10
 4. Find Mean, Variance, Standard Variance of X(discrete random variables)
 
+### 2020/11/12
+5. Create series of cards and deliver to 3 participates.
+
 
   
