@@ -15,5 +15,8 @@ Python homework and practices
 ### 2020/11/12
 5. Create series of cards and deliver to 3 participates.
 
+### 2020/11/19
+6. rank sum test for array X and array Y
+
 
   
