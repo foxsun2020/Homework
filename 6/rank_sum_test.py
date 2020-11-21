@@ -16,7 +16,8 @@ def rank_sum_test(arr_x, arr_y):
         new_number = number + show[i]
         sum_value = 0
         for a in range(number, new_number):
-            sum_value = sum_value + a
+            if i in X:
+                sum_value = sum_value + a
         rank = sum_value / show[i]
         if show[i] == 1:
             print("%.2f >>> %d" % (i, rank))
