@@ -18,5 +18,10 @@ Python homework and practices
 ### 2020/11/19
 6. rank sum test for array X and array Y
 
+### 2020/11/23
+7. image project and corp
+
+### 2020/11/28
+7. pytorch practice
 
   
