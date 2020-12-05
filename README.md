@@ -24,4 +24,7 @@ Python homework and practices
 ### 2020/11/28
 7. pytorch practice
 
+### 2020/12/5
+8. pytorch Getting Started
+
   
