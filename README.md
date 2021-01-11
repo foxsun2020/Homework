@@ -27,4 +27,18 @@ Python homework and practices
 ### 2020/12/5
 8. pytorch Getting Started
 
+### 2020/12/9
+9. image translate
+
+### 2020/12/9
+10. word cloud generation from qq chat history 
+
+### 2020/12/19
+13. collar generator
+
+### 2020/12/29
+14. Grokking deep learning
+
+
+
   
