@@ -1,43 +1,4 @@
-Python homework and practices
-
-## Catalogue
-
-### 2020/10/21
-1. Save data in sheet files to text files with inverted order.
-2. Compare students‘ major in CheckList.xlsx with Standard.xlsx and print result.
-
-### 2020/11/9
-3. Convert RGB pictures in folder into grayscale and open them.
-
-### 2020/11/10
-4. Find Mean, Variance, Standard Variance of X(discrete random variables)
-
-### 2020/11/12
-5. Create series of cards and deliver to 3 participates.
-
-### 2020/11/19
-6. rank sum test for array X and array Y
-
-### 2020/11/23
-7. image project and corp
-
-### 2020/11/28
-7. pytorch practice
-
-### 2020/12/5
-8. pytorch Getting Started
-
-### 2020/12/9
-9. image translate
-
-### 2020/12/9
-10. word cloud generation from qq chat history 
-
-### 2020/12/19
-13. collar generator
-
-### 2020/12/29
-14. Grokking deep learning
+A multifunctional notebook
 
 
 
