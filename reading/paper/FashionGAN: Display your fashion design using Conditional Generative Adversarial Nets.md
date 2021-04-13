@@ -7,11 +7,9 @@ it can directly show the design effect of the garment
 
 # Background
 
-  Plenty of display methods have been proposed to preview virtual garments in recent years. Most of them focus on displaying the 3D virtual garment.
+Plenty of display methods have been proposed to preview virtual garments in recent years. Most of them focus on displaying the 3D virtual garment.
 
-  the pipeline of 3D virtual garment display contains a series of complex operations which need lots of experienced users’ interactions.
-  
-image to image
+the pipeline of 3D virtual garment display contains a series of complex operations which need lots of experienced users’ interactions.
 
 # Methods
 
