@@ -38,15 +38,21 @@ two issues:
 # Methods
 the shape of the final generated image is constrained by fashion sketch/contour image, and the color together with the material is constrained by the fabric pattern. Then we add an extra local loss module to control the generator synthesizing texture.
 
+loss function: 
 
-
-
+LNetA(G;D;E)=LGAN(G;D;E)+limLim 1 (G;E)+lKLLKL(E)+Lt
 
 # Results
 
+Human preference: compare with other GANs
 
+Inception score(A higher inception score means high-quality and diverse): need to to add a content encoder to the diversity of results.
 
 # Comments
+
+it cannot map an irregular on: need to construct a new local loss module describing the irregular texture.
+
+extend our model to more general image translation tasks, like image colorization and style transfer.
 
 # Why
 * understand the background of the subject
