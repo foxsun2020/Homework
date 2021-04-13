@@ -5,16 +5,13 @@ Cui, Y. R., Liu, Q., Gao, C. Y., & Su, Z. (2018). FashionGAN: Display your fashi
 
 it can directly show the design effect of the garment
 
-# Conclusion
-
-method can indeed achieve impressive results in
-fashion design.
-
 # Background
 
-Plenty of display methods have been proposed to preview virtual garments in recent years. Most of them focus on displaying the 3D virtual garment.
+  Plenty of display methods have been proposed to preview virtual garments in recent years. Most of them focus on displaying the 3D virtual garment.
 
-the pipeline of 3D virtual garment display contains a series of complex operations which need lots of experienced users’ interactions.
+  the pipeline of 3D virtual garment display contains a series of complex operations which need lots of experienced users’ interactions.
+  
+image to image
 
 # Methods
 
