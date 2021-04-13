@@ -9,7 +9,7 @@ it can directly show the design effect of the garment
 
 ## Vistual garment display
 
-### 3D virtual garment display methods
+* 3D virtual garment display methods
 
 Plenty of display methods have been proposed to preview virtual garments in recent years. Most of them focus on displaying the 3D virtual garment.
 
@@ -17,14 +17,14 @@ These systems require significant time and domain-specific user knowledge to cre
 
 These systems create garment models which are frequently simple, non-physical and hence unrealizable.
 
-### 2D virtual garment display
+* 2D virtual garment display
 avoids the demand for domainspecific user knowledge and time-consuming of the traditional garment modeling.
 
 ## image to image GAN
 
 GAN + conditionals to constrain the generator = Conditional GAN(cGAN)
 
-### BicycleGAN
+* BicycleGAN
 
 takes advantage of cVAE-GAN and cLR-GAN
 
